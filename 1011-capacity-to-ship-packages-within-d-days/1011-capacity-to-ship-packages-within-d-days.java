@@ -13,8 +13,7 @@ class Solution {
                     return false;
                 }
                 else{
-                    maxWeight = 0;
-                    maxWeight = maxWeight + arr[i];
+                    maxWeight = arr[i];
                 }
             }
         }
