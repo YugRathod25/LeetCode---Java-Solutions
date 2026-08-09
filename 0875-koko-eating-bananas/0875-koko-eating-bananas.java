@@ -1,9 +1,9 @@
 class Solution {
 
     static boolean isValidAns(int[] arr, int h, int bananaPerHour){
-        int totalHour = 0;
+        long totalHour = 0;
         for (int i = 0; i < arr.length; i++){
-            totalHour += Math.ceil((double)arr[i]/bananaPerHour);
+            totalHour += (arr[i] + bananaPerHour - 1) / bananaPerHour;
         }
         return totalHour <= h;
     }
