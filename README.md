@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0136-single-number) |
 | [0410-split-array-largest-sum](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0875-koko-eating-bananas](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0069-sqrtx) |
 | [0410-split-array-largest-sum](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0875-koko-eating-bananas](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
