@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0018-4sum) |
+| [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
