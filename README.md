@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -105,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
