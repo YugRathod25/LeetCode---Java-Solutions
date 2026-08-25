@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0141-linked-list-cycle) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
