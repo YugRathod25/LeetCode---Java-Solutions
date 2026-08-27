@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
