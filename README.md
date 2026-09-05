@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1732-find-the-highest-altitude](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
