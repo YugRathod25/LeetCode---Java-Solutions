@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0509-fibonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Newton's Method
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
@@ -157,5 +159,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
