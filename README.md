@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0509-fibonacci-number) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Linked List
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0067-add-binary) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Memoization
 |  |
