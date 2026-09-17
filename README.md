@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0836-rectangle-overlap) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3870-count-commas-in-range](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -154,10 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0234-palindrome-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
