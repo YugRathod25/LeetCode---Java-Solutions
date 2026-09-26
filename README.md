@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1051-height-checker) |
 | [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Bit Manipulation
