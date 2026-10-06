@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0856-score-of-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3498-reverse-degree-of-a-string](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
