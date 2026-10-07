@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0856-score-of-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0856-score-of-parentheses) |
