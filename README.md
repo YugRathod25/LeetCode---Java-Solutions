@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1051-height-checker) |
 | [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0242-valid-anagram) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Recursion
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
