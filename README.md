@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0069-sqrtx) |
