@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1051-height-checker) |
 | [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
 |  |
 | ------- |
