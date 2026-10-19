@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1051-height-checker) |
 | [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
 |  |
