@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0217-contains-duplicate) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
