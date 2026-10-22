@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0901-online-stock-span) |
 ## Enumeration
 |  |
 | ------- |
@@ -328,4 +330,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
