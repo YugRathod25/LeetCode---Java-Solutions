@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2409-count-days-spent-together](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2409-count-days-spent-together) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3870-count-commas-in-range](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [2409-count-days-spent-together](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
