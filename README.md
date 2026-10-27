@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
