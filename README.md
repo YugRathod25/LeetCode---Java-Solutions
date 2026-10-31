@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0645-set-mismatch) |
 | [0997-find-the-town-judge](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0997-find-the-town-judge) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Recursion
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bubble Sort
 |  |
 | ------- |
