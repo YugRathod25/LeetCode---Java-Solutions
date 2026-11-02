@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0067-add-binary) |
+| [1441-build-an-array-with-stack-operations](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/3498-reverse-degree-of-a-string) |
