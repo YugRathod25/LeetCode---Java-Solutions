@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0835-image-overlap) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0402-remove-k-digits) |
+| [0682-baseball-game](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0901-online-stock-span) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
