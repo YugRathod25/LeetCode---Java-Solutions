@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0636-exclusive-time-of-functions](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0704-binary-search) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0402-remove-k-digits) |
+| [0636-exclusive-time-of-functions](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0856-score-of-parentheses) |
