@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1472-design-browser-history) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1472-design-browser-history) |
 ## Sliding Window
 |  |
 | ------- |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1472-design-browser-history) |
 ## Enumeration
 |  |
 | ------- |
@@ -372,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/YugRathod25/LeetCode---Java-Solutions/tree/master/1472-design-browser-history) |
 ## Graph Theory
 |  |
 | ------- |
